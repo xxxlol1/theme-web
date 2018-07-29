@@ -1,0 +1,58 @@
+    /* # reset */
+    *, *:after, *:before {
+        box-sizing: border-box;
+        }
+        html, body, h1, h2, h3, h4, h5, h6, ul, li, figure, .row {
+        margin: 0;
+        padding: 0;
+        }
+        figure img {
+        width: 100%;
+        height: 100%;
+        }
+        a, a:hover {
+        text-decoration: none;
+        }
+        body {
+        font-size: 16px;
+        font-family: Tahoma;
+        font-family: 'Montserrat', sans-serif;
+        }
+        nav ul {
+        list-style: none;
+        }
+            /* # Theme */
+            .t-white { color:white}
+            .t-black { color: black}
+            .t-pink { color: pink}
+            
+            .b-white { background-color:white}
+            .b-black { background-color: black}
+            .b-pink { background-color: pink}
+
+            /* # Componentes*/
+            /* ## Tamano */
+            
+            .header__logo__img{
+                width: 10%;
+
+            }
+            .e-center{
+                margin-left: auto;
+                margin-right: auto;
+            }
+            .j-center{
+                justify-content: center;
+            }
+           
+            .full-width{
+                width: 100%;
+            }
+            .a-center{
+                align-items: center;
+
+            }
+            .header{
+                border-bottom: 3px solid black;
+                padding: 2em 0em 1em;
+            }
