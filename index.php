@@ -10,6 +10,7 @@
       <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri()?>/assets/css/tech.css">
    </head>
    <body>
+        <!-- Header -->
       <header class="row header">
          <section class="col-6 header__main">
             <section class="col-12 header__logo">
@@ -75,6 +76,7 @@
          </section>
       </header>
       <br>
+       <!-- Header -->
       <!-- Footer -->
       <footer class="page-footer">
          <figure class="footer__logo e-center"> 
