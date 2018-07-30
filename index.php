@@ -18,6 +18,7 @@
                   <img src="<?php echo get_stylesheet_directory_uri()?>/assets/img/viral.png" alt="Logo Web">
                </figure>
             </section>
+             <!-- Buttons -->
             <nav class="col-12 header__nav">
                <ul class="nav nav__main j-center">
                   <li class="nav-item nav__item">
@@ -34,7 +35,9 @@
                   </li>
                </ul>
             </nav>
+             <!-- Buttons -->
          </section>
+          <!-- Social Media -->
          <section class="col-6 header__sec d-flex">
             <div class="row">
             </div>
@@ -63,7 +66,9 @@
                      </li>
                   </ul>
             </div>
+             <!-- Social Media -->
             </nav>
+             <!-- Navigator -->
             <section class="sear__input col-7">
                <div class="input-group mb-3">
                   <input type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="button-addon2">
@@ -74,6 +79,7 @@
             </section>
          </section>
          </section>
+          <!-- Navigator -->
       </header>
       <br>
        <!-- Header -->
